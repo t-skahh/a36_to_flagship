@@ -46,6 +46,6 @@ The files were grabbed from the S25's S931BXXSCCZH1 firmware.
 6. Soft reboot again.
 
 ## 📑 Credits
-Module made by @rqpl.
+Module made by @t-skahh.
 
 Original [a56-to-flagship](https://github.com/ducthoe/A56-To-Flagship) by @ducthoe.
