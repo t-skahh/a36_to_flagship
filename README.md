@@ -22,6 +22,10 @@ The files were grabbed from the S25's S931BXXSCCZH1 firmware.
   </tr>
 </table>
 
+## 🐞 Bugs
+
++ Photo assist ``Create`` makes the photo black or crashes Photo Editor, other features work fine.
+
 ## 📦 Installation
 
 ### Prerequisites
